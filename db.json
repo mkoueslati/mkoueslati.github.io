@@ -1,0 +1,34 @@
+{
+  "workshops": [
+    {
+      "id": 0,
+      "title": "Kotlin Study Jam",
+      "mentors": "Yosra Miladi - Instadeep",
+      "description": "How to build a mobile web app"
+    },
+    {
+      "id": 1,
+      "title": "UX Design research methods",
+      "mentors": "Nouha Jaafar & Amine Lamine- LOLLIPOP & Chaba7 Note book",
+      "description": "New UX tips"
+    },
+    {
+      "id": 2,
+      "title": "Progressive Web Apps",
+      "mentors": "Mohamed Karim Oueslati - Instadeep",
+      "description": "Basics of PWA"
+    },
+    {
+      "id": 3,
+      "title": "Computer Vision: Basics and Applications",
+      "mentors": "Nourchene Ferchichi & Sabrine Krichen- Instadeep",
+      "description": "Computer Vision: Basics and Applications"
+    },
+    {
+      "id": 4,
+      "title": "AI overview: Your first steps into understanding IT",
+      "mentors": "Elyes Manai & Alaa Triki -Data Co-Lab",
+      "description": "AI overview: Your first steps into understanding IT"
+    }
+  ]
+}
