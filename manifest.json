@@ -1,6 +1,6 @@
 {
-  "name": "veille techno",
-  "short_name": "vtechno",
+  "name": "Workshop DevFest 2019",
+  "short_name": "Workshop_DevFest_2019",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "display": "standalone",
@@ -22,11 +22,7 @@
       "sizes": "128x128",
       "type": "image/png"
     },
-    {
-      "src": "images/icons/icon-144x144.png",
-      "sizes": "144x144",
-      "type": "image/png"
-    },
+  
     {
       "src": "images/icons/icon-152x152.png",
       "sizes": "152x152",
